@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="task3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/task3_jar</output-path>
+    <root id="root">
+      <element id="archive" name="task3.jar">
+        <element id="module-output" name="task3" />
+      </element>
+      <element id="library" level="project" name="com.jakewharton.fliptables:fliptables:1.1.0" />
+    </root>
+  </artifact>
+</component>
